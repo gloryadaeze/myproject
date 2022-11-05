@@ -1,0 +1,9 @@
+{
+    "python.testing.pytestArgs": [
+        "musicapp",
+        "songcrud"
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.pytestEnabled": true,
+    "files.autoSave": "off"
+}
